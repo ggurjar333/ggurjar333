@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [UpWork] projects as freelance data engineer.(https://www.upwork.com/freelancers/~016349b682f1e2653e?viewMode=1)
+- 🔭 I’m currently working on [UpWork](https://www.upwork.com/freelancers/~016349b682f1e2653e?viewMode=1) projects as freelance data engineer.
 - 🔭 I’m currently also contributing on [Pudl](https://catalystcoop-pudl.readthedocs.io/en/latest/intro.html)
 - 🌱 I’m currently learning [Dagster](https://dagster.io/)
 - 👯 I’m looking to collaborate on data engineering roles
