@@ -4,7 +4,6 @@
 - 🌱 I’m putting in 1 hour of learning [Dagster](https://dagster.io/)
 - 👯 I’m looking for a data engineering role.
 - 💬 I also like to talk about Art paintings.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ggurjarsocl/)
 - 😄 Pronouns: His/Him
 
 <!--
