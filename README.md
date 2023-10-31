@@ -1,7 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently putting 3 hours on [UpWork](https://www.upwork.com/freelancers/~016349b682f1e2653e?viewMode=1) projects as freelance data engineer.
-- 🔭 I’m currently also contributing 2 hours on [Pudl](https://catalystcoop-pudl.readthedocs.io/en/latest/intro.html)
-- 🌱 I’m putting in 1 hour of learning [Dagster](https://dagster.io/)
+- 🔭 I want to work as a freelance data engineer.
 - 👯 I’m looking for a data engineering role.
 - 💬 I also like to talk about Art paintings.
 - 😄 Pronouns: His/Him
