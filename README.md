@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Gaurav 👋
 - 🔭 I code mostly in Python, less in JS, Rust.
 - 👯 I’m looking for a fullstack data engineering role.
 - 💬 I also like to talk about Art paintings.
