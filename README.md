@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I want to work as a freelance data engineer.
-- 👯 I’m looking for a data engineering role.
+- 🔭 I code mostly in Python, less in JS, Rust.
+- 👯 I’m looking for a fullstack data engineering role.
 - 💬 I also like to talk about Art paintings.
 - 😄 Pronouns: His/Him
 
