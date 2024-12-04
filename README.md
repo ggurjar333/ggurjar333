@@ -1,5 +1,5 @@
 ### I'm Gaurav 👋
-- 🔭 I code mostly in Python, SQL and less in JS, Rust.
+- 🔭 I code mostly in Python, SQL
 - 💬 I also like to talk about Art paintings.
 - 😄 Pronouns: His/Him
 
