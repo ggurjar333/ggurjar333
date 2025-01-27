@@ -1,6 +1,6 @@
-### I'm Gaurav 👋
-- 🔭 I code mostly in Python, SQL
-- 💬 I also like to talk about Art paintings.
+### His first name is Gaurav (Go-arav) 👋
+- 🔭 He mostly code in Python, SQL
+- 💬 He also likes to talk about Art paintings.
 - 😄 Pronouns: His/Him
 
 <!--
